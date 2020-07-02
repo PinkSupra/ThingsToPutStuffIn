@@ -17,8 +17,8 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-button{
-    background-color: blueviolet;
+.button1 {
+    background-color: rgb(18, 212, 247);
 
     width: 100px; 
     height:100px;
